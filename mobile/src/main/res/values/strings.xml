@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Getij</string>
+
+    <string name="button_text">Bijwerken</string>
+    <string name="subtitle">Ontvang de laatste informatie over het getij.</string>
+    <string name="loading_text">Moment AUB&#8230;</string>
+    <string name="msg_cont_dummy">Er is nog geen gegevens ontvangen.</string>
+</resources>
